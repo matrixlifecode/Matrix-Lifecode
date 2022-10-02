@@ -6,3 +6,4 @@ You need to load the development environment from https://www.b4x.com/ and insta
 
 The SWE_LIB is a ported lib from Thomas Mack (special thanks to him) from the Swiss Ephemeris lib (thanks to Alois Treindl).
 I put the external libs in the folder /library. They have to be copied in the external library folder from B4A.
+
